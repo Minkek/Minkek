@@ -1,0 +1,3 @@
+- Hi, I’m @Minkek
+- I’m currently learning Python, Java, C#
+- I'm not working on anything right now
