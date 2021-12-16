@@ -1,2 +1,3 @@
 - Hi, I’m @Minkek
 - I'm curently working on MinSalt (My Personal Project)
+- It'll be written in Python
