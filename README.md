@@ -1,1 +1,1 @@
-- Hi, I’m @Minkek
+Making Minecraft Servers and Skripts
